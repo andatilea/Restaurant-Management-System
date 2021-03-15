@@ -1,0 +1,5 @@
+Order 3 has been processed and is going to be served in the inside area, at the table: 17
+
+ Bill computed at the date:Tue May 05 10:04:23 EEST 2020
+
+ Total amount to pay: 30
